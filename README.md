@@ -84,7 +84,7 @@ Review verification: all 14 Python tests and the C++ host checks passed. The phy
 
 ## Contributions
 
-Project by Lyla Noe, developed with AI collaboration. ChatGPT contributed implementation and formalization support; Gemini contributed to resolving the Hall-sensor input behavior. This preparation adds bridge validation, offline tests, host firmware checks, and documentation while preserving the supplied firmware.
+Project by Jacob Patrick Noe, developed with AI collaboration. ChatGPT contributed implementation and formalization support; Gemini contributed to resolving the Hall-sensor input behavior. This preparation adds bridge validation, offline tests, host firmware checks, and documentation while preserving the supplied firmware.
 
 ## References
 
